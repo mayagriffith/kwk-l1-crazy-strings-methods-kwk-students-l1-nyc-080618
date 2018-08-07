@@ -1,4 +1,6 @@
 
 def crazy_strings(a,b)
-puts "hello friends".upcase.reverse
+puts 
 end
+
+crazy_strings("this is first","this is second")
