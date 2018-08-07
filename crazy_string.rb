@@ -5,3 +5,5 @@ def crazy_strings(first_string, second_string)
   
 return "okay. #{first_string} and #{second_string}"
 end
+
+crazy_strings
