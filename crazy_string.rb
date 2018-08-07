@@ -1,7 +1,7 @@
 
 def crazy_strings(a,b)
 puts "okay. #{a} and #{b}".upcase.reverse
-gsub
+puts "okay. #{a} and #{b}".gsub("s","z")
 end
 
-crazy_strings("this is first","this is second")
+crazy_strings("apples","oranges")
